@@ -19,7 +19,7 @@
 - 状态管理
   - Mobx - [Mobx 中文文档](https://cn.mobx.js.org)
   - Redux - [Redux 中文文档](https://www.redux.org.cn)
-    - [redux-saga 中文文档](http://leonshi.com/redux-saga-in-chinese/docs/api/index.html)
+    - redux-saga - [redux-saga 中文文档](http://leonshi.com/redux-saga-in-chinese/docs/api/index.html)
 
 ## 视图工具，用于视图展示的工具
 
