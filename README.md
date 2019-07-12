@@ -17,8 +17,9 @@
 - react-addons-css-transition-group - [组件进出动画](https://www.jianshu.com/p/52a8bdbd2acf)
 - react-media - [响应式](https://github.com/ReactTraining/react-media)
 - 状态管理
-  - Redux - [Redux 中文文档](https://www.redux.org.cn)
   - Mobx - [Mobx 中文文档](https://cn.mobx.js.org)
+  - Redux - [Redux 中文文档](https://www.redux.org.cn)
+    - [redux-saga 中文文档](http://leonshi.com/redux-saga-in-chinese/docs/api/index.html)
 
 ## 视图工具，用于视图展示的工具
 
