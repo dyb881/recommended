@@ -46,6 +46,7 @@
   - moment - [官方文档](http://momentjs.cn/docs)
   - dateformat - [dateformat npm](https://www.npmjs.com/package/dateformat)
   - dayjs - [dayjs npm](https://www.npmjs.com/package/dayjs)
+- js-cookie - [cookie 操作](https://github.com/js-cookie/js-cookie)
 
 ## 个人封装的常用工具
 
