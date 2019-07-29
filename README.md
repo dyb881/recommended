@@ -63,7 +63,6 @@ https://github.com/dyb881/react-app
   - @dyb881/img - [增强 img 标签](https://www.npmjs.com/package/@dyb881/img)
   - @dyb881/json - [json 处理工具](https://www.npmjs.com/package/@dyb881/json)
   - @dyb881/mock-server - [模拟数据服务器](https://www.npmjs.com/package/@dyb881/mock-server)
-  - @dyb881/regular - [常用正则](https://www.npmjs.com/package/@dyb881/regular)
   - @dyb881/router - [配置注册路由，带跳转动画](https://www.npmjs.com/package/@dyb881/router)
   - @dyb881/transition - [动画组件](https://www.npmjs.com/package/@dyb881/transition)
   - @dyb881/tab-bar - [移动端 tabbar](https://www.npmjs.com/package/@dyb881/tab-bar)
