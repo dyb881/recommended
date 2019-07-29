@@ -47,6 +47,7 @@
   - dateformat - [dateformat npm](https://www.npmjs.com/package/dateformat)
   - dayjs - [dayjs npm](https://www.npmjs.com/package/dayjs)
 - js-cookie - [cookie 操作](https://github.com/js-cookie/js-cookie)
+- any-rule - [正则大全](https://any86.github.io/any-rule)
 
 ## 个人封装的常用工具
 
