@@ -40,6 +40,7 @@
 - axios - [请求工具](https://www.kancloud.cn/yunye/axios/234845)
 - classNames - [快速组合 CSS 类](https://www.npmjs.com/package/classnames)
 - lrz - [图片压缩处理](https://www.npmjs.com/package/lrz)
+- file-saver - [客户端保存文件](https://github.com/eligrey/FileSaver.js)
 - useragent - [userAgent 解析工具](https://github.com/3rd-Eden/useragent#readme)
 - lodash - [高性能实用工具库](http://lodash.net/docs/4.16.1.html)
 - 时间处理
