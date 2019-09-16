@@ -50,6 +50,12 @@
 - js-cookie - [cookie 操作](https://github.com/js-cookie/js-cookie)
 - any-rule - [正则大全](https://any86.github.io/any-rule)
 
+## 编译工具，编译过程中提供各种帮助
+
+- react-snap - [预渲染HTML](https://github.com/stereobooster/react-snap)
+- webpack-parallel-uglify-plugin - [多进程代码压缩](https://www.npmjs.com/package/webpack-parallel-uglify-plugin)
+- filemanager-webpack-plugin - [文件操作和压缩](https://www.npmjs.com/package/filemanager-webpack-plugin)
+
 ## 个人封装的常用工具
 
 由于兼容问题，目前只能在以下三种方式搭建的开发环境中引用<br>
