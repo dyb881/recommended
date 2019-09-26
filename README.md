@@ -55,6 +55,7 @@
 - react-snap - [预渲染HTML](https://github.com/stereobooster/react-snap)
 - webpack-parallel-uglify-plugin - [多进程代码压缩](https://www.npmjs.com/package/webpack-parallel-uglify-plugin)
 - filemanager-webpack-plugin - [文件操作和压缩](https://www.npmjs.com/package/filemanager-webpack-plugin)
+- core-js - [低版本浏览器兼容方案](https://github.com/zloirock/core-js)
 
 ## 个人封装的常用工具
 
