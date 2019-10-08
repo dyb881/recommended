@@ -1,6 +1,6 @@
 # 推荐依赖
 
-## UI 组件，用于主要针对视图展示
+## React UI 组件，用于主要针对视图展示
 
 - ant-design - 阿里体系
   - antd - [PC 端](https://ant.design/docs/react/introduce-cn)
@@ -12,7 +12,7 @@
     - L7 - [地理空间数据可视化](https://www.yuque.com/antv/l7/wyb66y)
 - react-json-view - [json 展示组件](https://github.com/mac-s-g/react-json-view)
 
-## 工具组件，不展示视图，仅提供功能支持
+## React 工具组件，不展示视图，仅提供功能支持
 
 - react-addons-css-transition-group - [组件进出动画](https://www.jianshu.com/p/52a8bdbd2acf)
 - react-media - [响应式](https://github.com/ReactTraining/react-media)
