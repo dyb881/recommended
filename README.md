@@ -57,6 +57,11 @@
 - filemanager-webpack-plugin - [文件操作和压缩](https://www.npmjs.com/package/filemanager-webpack-plugin)
 - core-js - [低版本浏览器兼容方案](https://github.com/zloirock/core-js)
 
+## Node.js，常用工具
+
+- fs-extra - [文件操作](https://www.npmjs.com/package/fs-extra)
+- inquirer - [命令行表单](https://www.npmjs.com/package/inquirer)
+
 ## 个人封装的常用工具
 
 由于兼容问题，目前只能在以下三种方式搭建的开发环境中引用<br>
