@@ -14,7 +14,7 @@
 
 ## React 工具组件，不展示视图，仅提供功能支持
 
-- react-addons-css-transition-group - [组件进出动画](https://www.jianshu.com/p/52a8bdbd2acf)
+- react-transition-group - [组件进出动画](https://juejin.im/entry/5b3e14e86fb9a04fc4369f1e)
 - react-media - [响应式](https://github.com/ReactTraining/react-media)
 - 状态管理
   - Mobx - [Mobx 中文文档](https://cn.mobx.js.org)
