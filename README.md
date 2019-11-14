@@ -61,6 +61,7 @@
 
 - fs-extra - [文件操作](https://www.npmjs.com/package/fs-extra)
 - inquirer - [命令行表单](https://www.npmjs.com/package/inquirer)
+- reconnecting-websocket - [自动重连websocket](https://www.npmjs.com/package/reconnecting-websocket)
 
 ## 个人封装的常用工具
 
