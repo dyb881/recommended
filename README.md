@@ -49,6 +49,7 @@
   - dayjs - [dayjs npm](https://www.npmjs.com/package/dayjs)
 - js-cookie - [cookie 操作](https://github.com/js-cookie/js-cookie)
 - any-rule - [正则大全](https://any86.github.io/any-rule)
+- rxjs - [响应式流程管理](https://cn.rx.js.org/manual/installation.html)
 
 ## 编译工具，编译过程中提供各种帮助
 
