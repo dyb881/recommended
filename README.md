@@ -50,6 +50,7 @@
 - js-cookie - [cookie 操作](https://github.com/js-cookie/js-cookie)
 - any-rule - [正则大全](https://any86.github.io/any-rule)
 - rxjs - [响应式流程管理](https://cn.rx.js.org/manual/installation.html)
+- name-styles - [命名格式转换(如下划线转驼峰)](https://gitee.com/jamesfancy/name-styles)
 
 ## 编译工具，编译过程中提供各种帮助
 
