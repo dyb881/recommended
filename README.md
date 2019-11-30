@@ -45,8 +45,6 @@
 - lodash - [高性能实用工具库](http://lodash.net/docs/4.16.1.html)
 - 时间处理
   - moment - [官方文档](http://momentjs.cn/docs)
-  - dateformat - [dateformat npm](https://www.npmjs.com/package/dateformat)
-  - dayjs - [dayjs npm](https://www.npmjs.com/package/dayjs)
   - date-fns - [date-fns npm](https://www.npmjs.com/package/date-fns)
 - js-cookie - [cookie 操作](https://github.com/js-cookie/js-cookie)
 - any-rule - [正则大全](https://any86.github.io/any-rule)
