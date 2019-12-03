@@ -1,3 +1,8 @@
+# 开发规范
+
+- [Airbnb JavaScript 代码规范](https://juejin.im/entry/5b2211afe51d4558ba1a4e52)
+- [TypeScript 代码整洁之道](https://juejin.im/post/5cfb2b4951882576be276247)
+
 # 推荐依赖
 
 ## React UI 组件，用于主要针对视图展示
