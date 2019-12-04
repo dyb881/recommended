@@ -10,11 +10,7 @@
 - ant-design - 阿里体系
   - antd - [PC 端](https://ant.design/docs/react/introduce-cn)
   - antd-mobile - [移动端](https://mobile.ant.design/docs/react/introduce-cn)
-  - antV - 数据可视化
-    - G2 - [数据可视化 - PC](https://www.yuque.com/antv/g2-docs/get-started)
-    - F2 - [数据可视化 - 移动端](https://www.yuque.com/antv/f2/intro)
-    - G6 - [交互流程图和关系分析](https://www.yuque.com/antv/g6/xauk5e)
-    - L7 - [地理空间数据可视化](https://www.yuque.com/antv/l7/wyb66y)
+  - antV - [数据可视化](https://antv.vision/zh)
 - react-json-view - [json 展示组件](https://github.com/mac-s-g/react-json-view)
 
 ## React 工具组件，不展示视图，仅提供功能支持
