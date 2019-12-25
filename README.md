@@ -3,6 +3,30 @@
 - [Airbnb JavaScript 代码规范](https://juejin.im/entry/5b2211afe51d4558ba1a4e52)
 - [TypeScript 代码整洁之道](https://juejin.im/post/5cfb2b4951882576be276247)
 
+# React 知识准备
+
+以下知识点不需要追求完全精通，但是需要大致了解<br>
+
+- web 基础 - [MDN](https://developer.mozilla.org/zh-CN/)，[W3C](http://www.w3school.com.cn/)
+- ES Next - [JavaScript 完整手册](https://juejin.im/post/5bff57fee51d45021a167991)
+- TypeScript(可选，直接使用 js/jsx 文件开发亦可) - [官方文档](https://www.tslang.cn/docs/handbook/basic-types.html)
+- React - [入门教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+- 路由 react-router-dom - [官方文档](https://reacttraining.com/react-router/web/guides/quick-start)，[中文文档](https://www.jianshu.com/p/b117b437dc5a)
+- 预处理 less/scss/sass - [less 文档](https://www.html.cn/doc/less/)，[scss/sass 文档](http://sass.bootcss.com/docs/sass-reference)，选一即可。
+- 模块化 CSS Modules - [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
+- 状态管理 Mobx/Redux 二选一，大型项目推荐采用 Redux，中小型项目推荐采用 mobx 降低开发成本
+  - [Mobx 中文文档](https://cn.mobx.js.org)
+  - [Redux 中文文档](http://cn.redux.js.org)
+    - [redux-saga 中文文档](http://leonshi.com/redux-saga-in-chinese/docs/api/index.html)
+- UI 组件 ant-design
+  - [PC 端](https://ant.design/docs/react/introduce-cn)
+  - [移动端](https://mobile.ant.design/docs/react/introduce-cn)
+- 包管理，选一即可
+  - yarn [中文文档](https://yarnpkg.com/zh-Hant)
+  - npm [菜鸟教程](https://www.runoob.com/nodejs/nodejs-npm.html)
+- 打包工具
+  - webpack [中文文档](https://www.webpackjs.com)
+
 # 推荐依赖
 
 ## React UI 组件，用于主要针对视图展示
