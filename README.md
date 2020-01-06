@@ -59,6 +59,7 @@
   - vconsole - [vconsole npm](https://www.npmjs.com/package/vconsole)
   - eruda - [eruda npm](https://www.npmjs.com/package/eruda)
 - screenfull 全屏工具 - [简书](https://www.jianshu.com/p/cfbb13c32c9c)
+- js-base64 - [文本转base64](https://www.npmjs.com/package/js-base64)
 
 ## 工具，提供各种强大的功能
 
