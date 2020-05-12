@@ -65,7 +65,7 @@
 
 - axios - [请求工具](https://www.kancloud.cn/yunye/axios/234845)
 - classNames - [快速组合 CSS 类](https://www.npmjs.com/package/classnames)
-- lrz - [图片压缩处理](https://www.npmjs.com/package/lrz)
+- exif-rotate-js - [图片压缩并处理旋转](https://www.npmjs.com/package/exif-rotate-js)
 - file-saver - [客户端保存文件](https://github.com/eligrey/FileSaver.js)
 - ua-parser-js - [userAgent 解析工具](https://github.com/faisalman/ua-parser-js)
 - lodash - [高性能实用工具库](http://lodash.net/docs/4.16.1.html)
