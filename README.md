@@ -26,6 +26,8 @@
   - npm [菜鸟教程](https://www.runoob.com/nodejs/nodejs-npm.html)
 - 打包工具
   - webpack [中文文档](https://www.webpackjs.com)
+- 其他
+  - console 用法 [中文文档](https://juejin.im/post/5ac35004f265da23870f079d)
 
 # 推荐依赖
 
