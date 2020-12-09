@@ -95,18 +95,4 @@
 
 ## 个人封装的常用工具
 
-由于兼容问题，目前只能在以下三种方式搭建的开发环境中引用<br>
-[官方 create-react-app](https://github.com/facebook/create-react-app)<br>
-https://github.com/dyb881/create-react-app<br>
-https://github.com/dyb881/react-app
-
-- 个人封装
-  - @dyb881/auto-rem [自动计算 rem](https://www.npmjs.com/package/@dyb881/auto-rem)
-  - @dyb881/fetch-request - [请求工具](https://www.npmjs.com/package/@dyb881/fetch-request)
-  - @dyb881/file - [文件以及图片处理工具](https://www.npmjs.com/package/@dyb881/file)
-  - @dyb881/img - [增强 img 标签](https://www.npmjs.com/package/@dyb881/img)
-  - @dyb881/json - [json 处理工具](https://www.npmjs.com/package/@dyb881/json)
-  - @dyb881/mock-server - [模拟数据服务器](https://www.npmjs.com/package/@dyb881/mock-server)
-  - @dyb881/router - [配置注册路由，带跳转动画](https://www.npmjs.com/package/@dyb881/router)
-  - @dyb881/transition - [动画组件](https://www.npmjs.com/package/@dyb881/transition)
-  - @dyb881/tab-bar - [移动端 tabbar](https://www.npmjs.com/package/@dyb881/tab-bar)
+- [seasoning](https://dyb881.github.io/seasoning)
