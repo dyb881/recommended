@@ -93,6 +93,12 @@
 - inquirer - [命令行表单](https://www.npmjs.com/package/inquirer)
 - reconnecting-websocket - [自动重连websocket](https://www.npmjs.com/package/reconnecting-websocket)
 
+## 命令行工具
+
+- npm-check-updates - [npm包版本检查与更新](https://www.npmjs.com/package/npm-check-updates)
+- n - [node 版本管理工具](https://www.npmjs.com/package/n)
+- nrm - [npm 数据源管理](https://www.npmjs.com/package/nrm)
+
 ## 个人封装的常用工具
 
 - [seasoning](https://dyb881.github.io/seasoning)
